@@ -2,10 +2,14 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=false&theme=transparent)
 
+## portfólio
+
+![Portfólio](https://img.shields.io/badge/portfólio%20em%20codificação-172B4D?style=for-the-badge&logo=estacio&logoColor=blue)
+
 ## formação acadêmica
 
-[![Estácio](https://img.shields.io/badge/faculdade-estacio-blue?style=for-the-badge&logo=estacio&logoColor=blue)](https://linktr.ee/ojonatasquirino)
-[![ADS](https://img.shields.io/badge/ADS-4ºsemestre-transparent?style=for-the-badge&logo=estacio&logoColor=blue)](https://linktr.ee/ojonatasquirino)
+![Estácio](https://img.shields.io/badge/faculdade-estacio-blue?style=for-the-badge&logo=estacio&logoColor=blue)
+![ADS](https://img.shields.io/badge/ADS-4ºsemestre-transparent?style=for-the-badge&logo=estacio&logoColor=blue)
 
 
 ## redes para contato
