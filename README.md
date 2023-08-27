@@ -4,7 +4,7 @@
 
 ## portfólio
 
-![Portfólio](https://img.shields.io/badge/portfólio%20em%20codificação-172B4D?style=for-the-badge&logo=estacio&logoColor=blue)
+![Portfólio](https://img.shields.io/badge/em%20codificação-portfólio-172B4D?style=for-the-badge&logo=estacio&logoColor=blue)
 
 ## formação acadêmica
 
