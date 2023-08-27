@@ -1,6 +1,6 @@
 # jônatas quirino // desenvolvedor web // front-end 
 
-#### Sou desenvolvedor front-end, graduando em Análise & Desenvolvimento de Sistemas e entusiasta do aprendizado tecnológico. Aqui você encontrará minha constante evolução em programação com JavaScript e os meus principais projetos com a linguagem! 
+Sou desenvolvedor front-end, graduando em Análise & Desenvolvimento de Sistemas e entusiasta do aprendizado tecnológico. Aqui você encontrará minha constante evolução em programação com JavaScript e os meus principais projetos com a linguagem! 
 
 ## githubstatus
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=false&theme=dark)
