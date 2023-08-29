@@ -1,7 +1,7 @@
 # Jônatas Quirino 🌐 Desenvolvedor Web // Front-end 
 ## githubstatus
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&theme=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&theme=dark)
 
 ## portfólio
 
@@ -27,7 +27,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&hide_progress=trueicons=true&theme=ligth)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&hide_progress=trueicons=true&theme=dark)
 
 
 ## ferramentas de trabalho & estudo
