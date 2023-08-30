@@ -1,11 +1,12 @@
-# Jônatas Quirino 🌐 Desenvolvedor Web // Front-end 
+# Jônatas Quirino 🌐 Desenvolvedor Web // Web Designer // Front-end 
 ## githubstatus
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&theme=dark)
 
 ## portfólio
 
-![Portfólio](https://img.shields.io/badge/em%20codificação-portfólio-172B4D?style=for-the-badge&logo=estacio&logoColor=blue)
+![QUIRINO](https://img.shields.io/badge/quirino%20|%20website%20|%20portfólio-000000?style=for-the-badge&logo=About.quirino&logoColor=white)
+
 ## formação acadêmica
 
 ![Estácio](https://img.shields.io/badge/faculdade-estacio-blue?style=for-the-badge&logo=estacio&logoColor=blue)
