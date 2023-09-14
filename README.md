@@ -1,4 +1,4 @@
-# Jônatas Quirino 🌐 Desenvolvedor Web // Web Designer // Front-end 
+# Jônatas Quirino 🌐 Desenvolvedor Web // Front-end 
 ## githubstatus
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&theme=dark)
