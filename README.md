@@ -5,7 +5,7 @@
 
 ## portfólio
 
-![QUIRINO](https://img.shields.io/badge/quirino%20|%20website%20|%20portfólio-000000?style=for-the-badge&logo=About.quirino&logoColor=white)
+![QUIRINO](https://img.shields.io/badge/em%20construção-%20portfólio-000000?style=for-the-badge&logo=About.quirino&logoColor=white)
 
 ## formação acadêmica
 
