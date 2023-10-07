@@ -1,35 +1,26 @@
 
-## githubstatus
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&theme=dark)
-
 ## portfólio
 
-![QUIRINO](https://img.shields.io/badge/em%20construção-%20portfólio-000000?style=for-the-badge&logo=About.quirino&logoColor=white)
-
-## formação acadêmica
-
-![Estácio](https://img.shields.io/badge/faculdade-estacio-blue?style=for-the-badge&logo=estacio&logoColor=blue)
-![ADS](https://img.shields.io/badge/ADS-4ºsemestre-transparent?style=for-the-badge&logo=estacio&logoColor=blue)
-
+![QUIRINO](https://img.shields.io/badge/em%20construção-%20portfólio-0D1117?style=for-the-badge&logo=About.quirino&logoColor=white)
 
 ## redes para contato
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatasquirino/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:quirinoj02@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ojonatasquirino)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ojonatasquirino)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=235284)](https://www.linkedin.com/in/jonatasquirino/)
+[![GMAIL](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:quirinoj02@gmail.com)
+[![Linktree](https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/ojonatasquirino)
+
+## formação acadêmica
+
+![Estácio](https://img.shields.io/badge/faculdade-estácio-235284?style=for-the-badge&logo=estacio&logoColor=blue)
+![ADS](https://img.shields.io/badge/ADS-4ºsemestre-235284?style=for-the-badge&logo=estacio&logoColor=blue)
 
  ## principais tecnologias
 
 
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&hide_progress=trueicons=true&theme=dark)
-
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)]()
+[![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)]()
+[![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC)]()
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=b99aff)]()
 
 ## ferramentas de trabalho & estudo
 
@@ -38,15 +29,11 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![notiion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
 
-
-
-  
-## tecnologias estudadas atualmente
+## estudadando atualmente
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
 
 
 
