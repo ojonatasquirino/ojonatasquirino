@@ -5,7 +5,7 @@
 
 ![QUIRINO](https://img.shields.io/badge/em%20construção-%20portfólio-007ACC?style=for-the-badge&logo=About.quirino&logoColor=white)
 
-## redes de contato
+## redes para contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
 [![GMAIL](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:quirinoj02@gmail.com)
