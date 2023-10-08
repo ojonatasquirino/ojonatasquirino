@@ -1,5 +1,4 @@
 ## github status 
-[![quirino](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ojonatasquirino/github-readme-stats#gh-dark)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ojonatasquirino&theme=dark#gh-dark_border=true)
 
 ## portfólio
