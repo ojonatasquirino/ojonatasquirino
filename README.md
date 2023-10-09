@@ -1,10 +1,3 @@
-## github status 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ojonatasquirino&theme=dark#gh-dark_border=true)
-
-## portfólio
-
-![QUIRINO](https://img.shields.io/badge/em%20construção-%20portfólio-007ACC?style=for-the-badge&logo=About.quirino&logoColor=white)
-
 ## redes para contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
@@ -13,10 +6,7 @@
 
 ## formação acadêmica
 
-![Estácio](https://img.shields.io/badge/faculdade_Tecnológica-estácio-007ACC?style=for-the-badge&logo=estacio&logoColor=blue)
-
-![ADS](https://img.shields.io/badge/Desenvolvimento_De_Software_-4ºsemestre-007ACC?style=for-the-badge&logo=estacio&logoColor=blue)
-
+![Estácio](https://img.shields.io/badge/FACULDADE-estácio-007ACC?style=for-the-badge&logo=estacio&logoColor=blue) ![ADS](https://img.shields.io/badge/ADS-4ºsemestre-007ACC?style=for-the-badge&logo=estacio&logoColor=blue)
 
 ## ferramentas de trabalho
 
