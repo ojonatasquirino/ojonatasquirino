@@ -5,7 +5,6 @@
 ## redes para contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
-[![GMAIL](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:quirinoj02@gmail.com)
 [![Linktree](https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/ojonatasquirino)
 
 ## formação acadêmica
