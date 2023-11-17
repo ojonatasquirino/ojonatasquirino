@@ -2,7 +2,7 @@
 ## git status
 [![card](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## redes para contato
+## redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
 [![Linktree](https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/ojonatasquirino)
