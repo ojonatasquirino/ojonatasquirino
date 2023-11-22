@@ -12,7 +12,7 @@
 ![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)
 [![Linktree](https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/ojonatasquirino)
 
-## ferramentas e ambiente de codificação 
+## ambiente e ferramentas de codificação 
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
