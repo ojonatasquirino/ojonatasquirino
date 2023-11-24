@@ -9,7 +9,7 @@
 ## redes para contato 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
-![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino/)
 [![Linktree](https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/ojonatasquirino)
 
 ## ambiente e ferramentas de codificação 
