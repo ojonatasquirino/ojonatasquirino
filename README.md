@@ -1,45 +1,54 @@
+<h1 align='center'>Jônatas Quirino:small_blue_diamond:Front & UI Design </h1>  
+
+<p align='center'> Soteropolitano, apaixonado por tecnologia, inovação, gestão e design. </p> 
+
+>*Aplica-te a todo o instante com toda a *atenção*, para terminar o trabalho que tens nas tuas mãos
+>e liberta-te de todas as outras preocupações.
+> Delas ficarás livre se executares cada ação da tua vida como se fosse a última. (Meditações — Marco Aurélio)*
+
 ## site profissional 
 
 ![portfolio](https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=About.me&logoColor=054595)
 
 ## formação acadêmica  
 ![Faculdade](https://img.shields.io/badge/universidade_📚_estácio-0D1117?style=for-the-badge&logo=estacio&logoColor=blue)
-![ADS](https://img.shields.io/badge/desenvolvimento_de_software_⌚_4º_semestre-0D1117?style=for-the-badge&logo=estacio&logoColor=blue)
+
+![ADS](https://img.shields.io/badge/desenvolvimento_de_software_❄️_4º_semestre-0D1117?style=for-the-badge&logo=estacio&logoColor=blue)
 
 ## redes para contato 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
 [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino/)
 [![Linktree](https://img.shields.io/badge/linktree-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://linktr.ee/ojonatasquirino)
+[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/channels/@jonatasquirino)
 
-## ambiente e ferramentas de codificação 
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+## ambiente de codificação 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=yellow)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
+
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=orange)
+![notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white) 
+![codepen](https://img.shields.io/badge/Codepen-0D1117?style=for-the-badge&logo=codepen&logoColor=b1b1b1)
+![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=b2b2b2)
 
- ## git status 
-
-[![card](https://github-readme-stats.vercel.app/api?username=ojonatasquirino&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-##  principais tecnologias 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&layout=compact&theme=dark)
-
+##  tecnologias 
+![NODE](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)]()
 [![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=red)]()
+
 [![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC)]()
 ![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=#fff)
 [![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=b99aff)]()
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&layout=compact&theme=dark)
 
-## estudadando atualmente 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![](https://img.shields.io/badge/sequelize-0D1117?style=for-the-badge&logo=sequelize&logoColor=blue)
-![](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
+
+
+
+
 
 
 
