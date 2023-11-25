@@ -1,6 +1,6 @@
 <h1 align='center'>Jônatas Quirino:small_blue_diamond:Front & UI Design </h1>  
 
-<p align='center'> Soteropolitano, apaixonado por tecnologia, inovação, gestão e design. </p> 
+<p align='center'> <strong> Natural de Salvador/BA. Apaixonado por Tecnologia, Inovação e Design. </strong>  </p> 
 
 >*Aplica-te a todo o instante com toda a *atenção*, para terminar o trabalho que tens nas tuas mãos
 >e liberta-te de todas as outras preocupações.
