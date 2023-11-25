@@ -9,7 +9,7 @@
 
 ## site profissional 
 
-![portfolio](https://img.shields.io/badge/portfólio_—_em_codificação-0D1117?style=for-the-badge&logo=About.me&logoColor=054595)
+![portfolio](https://img.shields.io/badge/portfólio_🔧_em_codificação-0D1117?style=for-the-badge&logo=About.me&logoColor=054595)
 
 ## formação acadêmica  
 ![Faculdade](https://img.shields.io/badge/universidade_📚_estácio-0D1117?style=for-the-badge&logo=estacio&logoColor=blue)
