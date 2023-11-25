@@ -4,7 +4,8 @@
 
 >*Aplica-te a todo o instante com toda a *atenção*, para terminar o trabalho que tens nas tuas mãos
 >e liberta-te de todas as outras preocupações.
-> Delas ficarás livre se executares cada ação da tua vida como se fosse a última. (Meditações — Marco Aurélio)*
+> Delas ficarás livre se executares cada ação da tua vida como se fosse a última.
+>(Meditações — Marco Aurélio)*
 
 ## site profissional 
 
