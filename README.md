@@ -2,10 +2,9 @@
 
 <p align='center'> <strong> Natural de Salvador/BA. Apaixonado por Tecnologia, Inovação e Design. </strong>  </p> 
 
->*Aplica-te a todo o instante com toda a atenção, para terminar o trabalho que tens nas tuas mãos
->e liberta-te de todas as outras preocupações.
-> Delas ficarás livre se executares cada ação da tua vida como se fosse a última. Levante-te para cumprir a tua obra de homem.
->(Marco Aurélio — Meditações)*
+>*Aplica-te a todo o instante com toda a atenção para terminar o trabalho que tens nas tuas mãos.
+> Executas cada ação da tua vida como se fosse a última. Levante-te para cumprir a tua obra de homem.
+>(Marco Aurélio)*
 
 ## site profissional 
 
