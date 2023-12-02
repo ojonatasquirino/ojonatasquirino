@@ -9,9 +9,10 @@
 >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
-## portfólio/site
+## portfólio e app de linkagem
 
-![portfolio](https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=About.me&logoColor=054595)
+![portfolio](https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=About.me&logoColor=054595) ![seta](https://img.shields.io/badge/→-0D1117?style=for-the-badge&logo=&logoColor=054595)
+[![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=linktree&logoColor=054595)](https://bit.ly/linkquirino)
 
 ## formação acadêmica  
 ![Faculdade](https://img.shields.io/badge/universidade_📚_estácio-0D1117?style=for-the-badge&logo=estacio&logoColor=blue)
@@ -44,7 +45,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
 [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino/)
-[![Linktree](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=linktree&logoColor=green)](https://bit.ly/linkquirino)
 [![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/channels/@jonatasquirino)
 
 
