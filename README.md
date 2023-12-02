@@ -3,7 +3,7 @@
 <p align='center'> <strong> Natural de Salvador/BA. Apaixonado por Tecnologia, Inovação e Design. </strong>  </p> 
 
 >*Aplica-te toda a atenção para terminar o trabalho que tens nas tuas mãos.
->levante-te para cumprir a tua obra de homem e executas cada ação da tua vida como se fosse a última.
+>Levante-te para cumprir a tua obra de homem e executas cada ação da tua vida como se fosse a última.
 >(Marco Aurélio)*
 >
 >  
