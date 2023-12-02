@@ -25,7 +25,7 @@
 ## ambiente de codificação 
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=yellow)
+![VERCEL](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=000)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)
 
 ![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
