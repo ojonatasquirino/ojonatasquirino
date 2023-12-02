@@ -1,4 +1,4 @@
-<h1 align='center'>Jônatas Quirino:small_blue_diamond:Front & UI Design </h1>  
+<h1 align='center'>Jônatas Quirino :small_blue_diamond: Front & UI Design </h1>  
 
 <p align='center'> <strong> Natural de Salvador/BA. Apaixonado por Tecnologia, Inovação e Design. </strong>  </p> 
 
