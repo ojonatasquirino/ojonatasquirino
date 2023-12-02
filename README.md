@@ -9,7 +9,7 @@
 >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
 
-## site profissional
+## portfólio/site
 
 ![portfolio](https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=About.me&logoColor=054595)
 
@@ -36,8 +36,8 @@
 ![NODE](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
 
 ## principais tecnologias
-[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)]()[![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC)]()
-![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=#fff)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)]()[![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=007ACC)]() ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=orange)
+![SASS](https://img.shields.io/badge/Sass-0D1117?style=for-the-badge&logo=sass&logoColor=pink)
 
 
 ## contate-me
