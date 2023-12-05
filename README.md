@@ -11,7 +11,7 @@
 
 ## portfólio e app de linkagem
 
-![portfolio](https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=About.me&logoColor=054595) ![seta](https://img.shields.io/badge/→-0D1117?style=for-the-badge&logo=&logoColor=054595)
+![portfolio](https://img.shields.io/badge/portfólio-0D1117?style=for-the-badge&logo=About.me&logoColor=054595)
 [![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=linktree&logoColor=054595)](https://bit.ly/linkquirino)
 
 ## formação acadêmica  
