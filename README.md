@@ -48,8 +48,7 @@
 ## contate-me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=007ACC)](https://www.linkedin.com/in/jonatasquirino/)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino/)
-[![Discord](https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/channels/@jonatasquirino)
+
 
 
 
