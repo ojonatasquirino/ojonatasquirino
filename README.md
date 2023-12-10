@@ -32,8 +32,8 @@
 
 ![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=orange)
 ![notion](https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion&logoColor=white) 
-![codepen](https://img.shields.io/badge/Codepen-0D1117?style=for-the-badge&logo=codepen&logoColor=000)
-![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=000)
+![codepen](https://img.shields.io/badge/Codepen-0D1117?style=for-the-badge&logo=codepen&logoColor=fff)
+![MDN](https://img.shields.io/badge/MDN_Web_Docs-0D1117?style=for-the-badge&logo=mdnwebdocs&logoColor=fff)
 ![NODE](https://img.shields.io/badge/NodeJS-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
 
 ## principais tecnologias
@@ -43,7 +43,7 @@
 ## tecnologias de estudo
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=000)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ## contate-me
 
