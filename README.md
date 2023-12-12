@@ -1,13 +1,17 @@
-<h1 align='center'> Jônatas Quirino  </h1>  
+<h1 align='center'> Jônatas Quirino </h1>  
 
-<p align='center'> <strong> Natural de Salvador/BA. Apaixonado por Tecnologia, Inovação e Design. </strong>  </p> 
+<p align='center'> <strong> Brasileiro. Baiano. Soteropolitano. <br>
+  Apaixonado por programação, inovação, gestão e design. </strong>  </p> 
+  
+#
 
 >*Aplica-te toda a atenção para terminar o trabalho que tens nas tuas mãos.
 >Levante-te para cumprir a tua obra de homem e executas cada ação da tua vida como se fosse a última.
->(Marco Aurélio)*
+>(Meditações - Marco Aurélio)*
 >
 >  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ojonatasquirino&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojonatasquirino&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+
 
 ## portfólio e app de linkagem
 
@@ -43,7 +47,6 @@
 ## tecnologias de estudo
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![TS](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=007ACC)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=fff)
 
 ## contate-me
 
