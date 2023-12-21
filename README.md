@@ -3,7 +3,7 @@
  <a href = "mailto:quirinoj02@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
 [![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=054595)](https://twitter.com/ojonatasquirino)
 [![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=linktree&logoColor=orange)](https://bit.ly/linkquirino)
-[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=tabnews&logoColor=b2b2b2)](https://www.tabnews.com.br/ojonatasquirino)
+[![TabNews](https://img.shields.io/badge/tabnews-0D1117?style=for-the-badge&logo=Databricks&logoColor=fff)](https://www.tabnews.com.br/ojonatasquirino)
 
 
 
