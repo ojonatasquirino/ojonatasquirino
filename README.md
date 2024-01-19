@@ -1,4 +1,15 @@
+
+
 <div align='center'> 
+
+## @ojonatasquirino
+
+
+<blockquote>Encontre pessoas que possuem o mesmo problema que você. Apresente a solução. <br>
+ Note a inevitável exponencialidade em suas habilidades e relações ao longo desse processo contínuo.
+ </blockquote> 
+
+#
   
 [![LinkMe](https://img.shields.io/badge/linkMe-0D1117?style=for-the-badge&logo=upcloud&logoColor=fff)](https://bit.ly/linkquirino)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=3fa9f5)](https://www.linkedin.com/in/jonatasquirino/)
