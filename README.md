@@ -2,10 +2,8 @@
 
 <div align='center'> 
 
-## @ojonatasquirino
 
-
-<blockquote>Encontre pessoas que possuem o mesmo problema que você. Apresente a solução. <br>
+<blockuote>Encontre pessoas que possuem o mesmo problema que você. Apresente a solução. <br>
  Note a inevitável exponencialidade em suas habilidades e relações ao longo desse processo contínuo.
  </blockquote> 
 
