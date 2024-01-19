@@ -1,12 +1,8 @@
 
 <div align='center'>
  
-## @ojonatasquirino
-
-
 Encontre pessoas que têm o mesmo problema que você. Apresente uma solução. <br>
 Note a inevitável exponencialidade em suas habilidades e relações ao fazer disso sua vida.
-
 
 #
  
