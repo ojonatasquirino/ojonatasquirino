@@ -9,3 +9,11 @@
 ![figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=orange)
   
 </div>
+
+#
+
+<div align='center'>
+  
+[![linkedin](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jonatasquirino/)
+[![GMAIL](https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)](mailto:quirinoj02@gmail.com)
+</div>
