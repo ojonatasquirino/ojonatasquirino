@@ -11,4 +11,4 @@
 
 [![Linkedin](https://img.shields.io/badge/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/jonatasquirino/)
 <a href = "mailto:quirinoj02@gmail.com">![Gmail](https://img.shields.io/badge/gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=red)</a>
-![x](https://img.shields.io/badge/twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)
+[![x](https://img.shields.io/badge/twitter-0D1117?style=for-the-badge&logo=x&logoColor=fff)](https://www.twitter.com/ojonatasquirino/)
