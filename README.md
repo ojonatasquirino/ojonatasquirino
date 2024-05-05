@@ -1,5 +1,4 @@
-
-<div align='center'>
+<div align='center'> 
    
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=RED) 
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=HTML5&logoColor=blue) 
