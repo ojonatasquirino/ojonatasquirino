@@ -1,7 +1,7 @@
 <div align='center'> 
 
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=RED) 
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=HTML5&logoColor=blue)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue)
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=orange)
 
 #
