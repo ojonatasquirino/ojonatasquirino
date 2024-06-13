@@ -4,6 +4,6 @@
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=38B2AC)
 ![TS](https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue)
 ![node](https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=green)
-</div> 
+</div>  
 
  
