@@ -6,5 +6,6 @@
 ![React](https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=38B2AC)
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=blue)
 ![git](https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=red)
+![figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=orange)
 
 </div>
