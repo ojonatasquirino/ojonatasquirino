@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
 </picture>
 <picture>
-  <source srcset="https://img.shields.io/badge/nodejs-FFF?style=for-the-badge&logo=node.js&logoColor=green" media="(prefers-color-scheme: light)">
+  <source srcset="https://img.shields.io/badge/node-FFF?style=for-the-badge&logo=node.js&logoColor=green" media="(prefers-color-scheme: light)">
   <img src="https://img.shields.io/badge/node-0D1117?style=for-the-badge&logo=node.js&logoColor=green" alt="Node">
 </picture>
 <picture>
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=blue" alt="TS">
 </picture>
     <picture>
-  <source srcset="https://img.shields.io/badge/next.js-FFF?style=for-the-badge&logo=next.js&logoColor=black" media="(prefers-color-scheme: light)">
+  <source srcset="https://img.shields.io/badge/next-FFF?style=for-the-badge&logo=next.js&logoColor=black" media="(prefers-color-scheme: light)">
   <img src="https://img.shields.io/badge/nextjs-0D1117?style=for-the-badge&logo=next.js&logoColor=fff" alt="nextjs">
 </picture>
 <picture>
