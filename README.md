@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
 </picture>
 <picture>
-  <source srcset="https://img.shields.io/badge/node-FFF?style=for-the-badge&logo=node.js&logoColor=green" media="(prefers-color-scheme: light)">
-  <img src="https://img.shields.io/badge/node-0D1117?style=for-the-badge&logo=node.js&logoColor=green" alt="Node">
+  <source srcset="https://img.shields.io/badge/nodejs-FFF?style=for-the-badge&logo=node.js&logoColor=green" media="(prefers-color-scheme: light)">
+  <img src="https://img.shields.io/badge/nodejs-0D1117?style=for-the-badge&logo=node.js&logoColor=green" alt="Node">
 </picture>
 <picture>
   <source srcset="https://img.shields.io/badge/typescript-FFF?style=for-the-badge&logo=typescript&logoColor=blue" media="(prefers-color-scheme: light)">
