@@ -1,4 +1,7 @@
+
+<h2 align='center'> <a href='https//ojonatasquirino.com'> ojonatasquirino.com </a> </h2>
 <div align='center'>
+ 
 <picture>
   <source srcset="https://img.shields.io/badge/javascript-FFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E" media="(prefers-color-scheme: light)">
   <img src="https://img.shields.io/badge/javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS">
@@ -22,10 +25,6 @@
 <picture>
   <source srcset="https://img.shields.io/badge/tailwindcss-FFF?style=for-the-badge&logo=tailwind-css&logoColor=blue" media="(prefers-color-scheme: light)">
   <img src="https://img.shields.io/badge/tailwindcss-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=blue" alt="Tailwind">
-</picture>
-  <picture>
-  <source srcset="https://img.shields.io/badge/git-FFF?style=for-the-badge&logo=git&logoColor=red" media="(prefers-color-scheme: light)">
-  <img src="https://img.shields.io/badge/git-0D1117?style=for-the-badge&logo=git&logoColor=red" alt="Git">
 </picture>
 
   <picture>
